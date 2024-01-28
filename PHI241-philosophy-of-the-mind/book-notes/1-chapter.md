@@ -76,3 +76,29 @@ How convincing do you find the claim that a person has a privileged access to hi
 My answer:
 
 > I am not entirely convinced. The reason for this is that I have had experience of someone acting in a certain way. I understood the reason they might be acting in such a way, but it seemed that they were not, until I informed them of the reason that I believed they acted in that way. So it seemed that I somehow had more knowledge than they did of their intentionality of an action, and they were not aware of an intentionality of their action.
+
+## 1.8 First- and third-person perspectives and the search for a unitary account of the mind
+
+> "The fact that mental states may be ascribed in two fundamentally different kinds of way, from a first-person perspectives on the basis of inner awareness and from a third-person perspective grounded in the observation of behavior, has been through by some philosophers to raise problems." - Maslin
+
+**Cartesianism** "leads to the view that states of mind are intrinsically inner, private and non-physical in nature, accessible only to the person whose states of mind they are."
+
+**Analytical Behaviorism** "attempts to reduce mental states to patterns of actual and possible external public behavior."
+
+## 1.9 The holistic character of intentional states and their relation to consciousness
+
+> "Sensations are atomistic: the occurrence of an individual sensation has no implications for the existence, or non-existence, of any other sensation, so in this sense sensations can exist loosely and separately apart from each other." - Maslin
+
+> " The capacity for intentional states to fit together to form a harmonious whole, or to be inconsistent with each toher, as well as to presuppose and entail the existence of other intentional states, is what philosophers refer to as their *holistic character*." - Maslin
+
+## Exercise 1.10
+
+In the light of th extended discussion comprising this chapter, do you think it is possible to state those conditions that will demarcate the mental from the non-mental? Are some elements of this criterion more basic than others? Try briefly to say what is distinctive about hte mental as opposed to the non-mental and then read my discussion below.
+
+My answer:
+
+> I think that one thing that demarcates the mental from the non-mental is intentionality. Things that do not have a mental state seem to not have intentionality, especially not *intentionality through time*. Another thing that demarcates the mental from the non-mental is the experience of emotions and sensations. Something that has no mental has no emotions or sensations, while something that is mental does.
+
+Book answer:
+
+> Firstly, physical things, and perhaps abstract entities such as numbers, can exist whether anyone is aware of them or not. By contrast sensations such as pains and itches exist if, and only if, a person or being is currently conscious of them. [...] Consciousness is also vitally important for ensuring coherence among the propositional attitudes which comprise non-sensational intentional states, because unless a person can become aware of the propositional attitudes to which they subscribe, they will not be able to detect and eliminate any inconsistencies between them. [...] Thirdly, physical phenomena are accessible only from a third-person perspective, whereas mental states can be accessed, and scribed from both first-person - 'inner' - and third-person 'outer' viewpoints. [...]
