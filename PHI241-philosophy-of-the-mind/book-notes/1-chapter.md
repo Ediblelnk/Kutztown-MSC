@@ -88,8 +88,8 @@ My answer:
 ## 1.9 The holistic character of intentional states and their relation to consciousness
 
 > "Sensations are atomistic: the occurrence of an individual sensation has no implications for the existence, or non-existence, of any other sensation, so in this sense sensations can exist loosely and separately apart from each other." - Maslin
-
-> " The capacity for intentional states to fit together to form a harmonious whole, or to be inconsistent with each toher, as well as to presuppose and entail the existence of other intentional states, is what philosophers refer to as their *holistic character*." - Maslin
+>
+> " The capacity for intentional states to fit together to form a harmonious whole, or to be inconsistent with each other, as well as to presuppose and entail the existence of other intentional states, is what philosophers refer to as their *holistic character*." - Maslin
 
 ## Exercise 1.10
 
