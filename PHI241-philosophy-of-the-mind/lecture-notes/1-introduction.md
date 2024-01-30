@@ -1,4 +1,4 @@
-# Second Class Notes
+# Presentation of Maslin Chapter 1
 
 ## The Mind-Body Problem
 
@@ -81,3 +81,59 @@ What about perceptions?
 
 > Assumptions are a kind of mental state, disposition, which we may not be aware of.
 > Instinct influence us, but we are not aware of it.
+
+## What are some marks of the mental that may distinguish mental states from physical states?
+
+**Intentionality** - "aboutness"
+
+What does it mean for a mental state to be intentional?
+
+> It means that there is a reason for it, or that it is attached to something, like an idea.
+
+What are some examples of how a mental state is intentional?
+
+## Intentionality
+
+Which kinds of mental states are intentional and which are not?
+**Sensations are not *about* or directed upon other states of affairs (real or imaginary) external to themselves.**
+All other kinds of mental states are intentional states.
+
+## Intentional Content
+
+What is the intentional content of the mental state? Is it the object itself that the mental state is directed towards, or is it how the object appears to us?
+For example, is the intentional content of my perception of a snake, i.e., what my perception is about, the snake itself (how it actually is) or is it how the snake appears to me?
+How does the "duck-rabbit" example in Chapter One help answer this question?
+
+> The "duck-rabbit" example illustrates that a single, unchanging thing can be observed as multiple different things.
+
+## Experiencing reality as
+
+The world presents itself to us in certain ways, given out perceptual capacities. We would perceive different aspects of the world and perceive the world differently, if we have differt perceptual capacities, such as those of a dog or bat. But, we are all perceiving the same world.
+
+## Intentional states are also known as "propositional attitudes"
+
+Propositional attitude (Bertrand Russell): the psychological way or mode of presentation of an intentional object.
+
+For example, when we believe something, we take the attitude that what the belief is about is true. When we doubt something, we take the attitude that what the doubt is about is false.
+
+## Intentionality (cont.)
+
+Does intentionality exist only when there are mental states with propositional attitudes or can it exist independently of mental states?
+
+Can some physical object or state represent or be about something else, even if there do not appear to be any propositional attitudes associated with that object or state?
+
+> Consider the rings of a tree. The amount of rings gives information about the age of the tree.
+
+## THe Beetle-in-the-Box
+
+How does Ludwig Wittgenstein use the metaphor of the beetle-in-the-box to illustrate the privacy of the mental?
+
+What challenge does this analogy raise for the possibility of understanding the meaning of the what we say about our mental states?
+
+> Consider describing your red, and comparing it to someone else's red.
+
+## Consider sensations: Can we be wrong that we are in pain?
+
+Is being in pain and knowing that one is in pain different?
+
+Can animals be in pain but not know that they are in pain?

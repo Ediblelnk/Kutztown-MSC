@@ -55,3 +55,17 @@ Descartes exercises considerable ingenuity in describing a mechanism by means of
 My answer:
 
 > If the non-physical soul is able to influence the physical world, even as Descartes describes as "a tiny push which is magnified by a chain pf physical causes and effects...", then there must be a physical part of the soul, from which it is able to interact with the physical world. There is no way for a completely non-physical soul to impact the completely physical world.
+
+## Exercise 2.6
+
+Can you see a problem with Descartes' suggestion that the substantial union between the soul and the body is constituted by the soul being, 'as it were, mixed up with, the body'? Work alone or in discussion with someone else and write down your answer before reading on.
+
+My answer:
+
+> If the soul has no dimension, and takes up no physical space, then how can it be 'mixed up with' the body? It is self-contradictory and there is no way to rectify it.
+
+## Exercise 2.7
+
+Does Descartes' argument from systematic doubt succeed? Can you construct a parallel argument in which although one thing A can be doubted and another thing B cannot be doubted, nevertheless it is clear that A and B are one and the same? If such an argument can be produced, it can be used to reveal a flaw in Descartes' thinking. Work on this on your own and then discuss it with someone else, before reading on.
+
+My answer:
