@@ -137,3 +137,7 @@ What challenge does this analogy raise for the possibility of understanding the 
 Is being in pain and knowing that one is in pain different?
 
 Can animals be in pain but not know that they are in pain?
+
+## A unitary account of hte mind?
+
+If what my pain means to me from a first-person perspective  is different from what is means to you from a third-person perspective, are we stuck with fundamentally different meanings for mental phenomena?
