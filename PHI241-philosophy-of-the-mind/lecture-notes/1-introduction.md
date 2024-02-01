@@ -124,7 +124,7 @@ Can some physical object or state represent or be about something else, even if 
 
 > Consider the rings of a tree. The amount of rings gives information about the age of the tree.
 
-## THe Beetle-in-the-Box
+## The Beetle-in-the-Box
 
 How does Ludwig Wittgenstein use the metaphor of the beetle-in-the-box to illustrate the privacy of the mental?
 
@@ -138,6 +138,31 @@ Is being in pain and knowing that one is in pain different?
 
 Can animals be in pain but not know that they are in pain?
 
-## A unitary account of hte mind?
+## A unitary account of the mind?
 
 If what my pain means to me from a first-person perspective  is different from what is means to you from a third-person perspective, are we stuck with fundamentally different meanings for mental phenomena?
+
+Given that here are first-person (inner) and third-person (external) perspectives on the mind, is there any way to unify these accounts?
+
+## Holism of the Mental
+
+Sensations are "atomistic: the occurrence of an individual sensation has no implications for the existence or non-existence of any other sensation, so in this sense sensations can exist loosely and separately apart from each other"
+
+Is this true of intentional states? Why or why not?
+
+Consider the intention to cash a cheque. What other intentional states are tied to the intentional to cash a check?
+
+> Money has value, check is good, bank will keep their money, etc.
+
+What role does self-consciousness play in unifying our mind? How does it make rational thought possible?
+
+> It allows us to compare propositions between space and time for contradictions.
+
+## Is the mental different from the physical?
+
+1. Consciousness
+    - Mental states such as sensations only exist with consciousness, whereas physical objects do not require consciousness to exist. Even beliefs may be ascribable to someone only if it is possible for them to become conscious.
+
+1. How can a purely physical system, such as the brain, be intentional, meaning be directed upon a content which in some cases does not exist outside the mind. Also, how could a physical system realize the essentially holistic nature of intentional states that requires self-consciousness.
+
+1. How can the first-person perspective and radical privacy of the mental ever be reduced to the physical or a third-person perspective.

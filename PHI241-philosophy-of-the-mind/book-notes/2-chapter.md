@@ -68,4 +68,16 @@ My answer:
 
 Does Descartes' argument from systematic doubt succeed? Can you construct a parallel argument in which although one thing A can be doubted and another thing B cannot be doubted, nevertheless it is clear that A and B are one and the same? If such an argument can be produced, it can be used to reveal a flaw in Descartes' thinking. Work on this on your own and then discuss it with someone else, before reading on.
 
+Book answer:
+
+> 1. Lois Lane knows that the reporter she works with is Clark Kent.
+> 1. She does not know that the reporter she works with is Superman.
+> 1. Therefore Clark Kent cannot be Superman.
+
+## Exercise 2.8
+
+Can you see a problem with the argument above (not shown)? Assessing it is difficult, so I suggest you examine premise 3 very closely. It is ambiguous and can be interpreted to mean two things, only one of which will give Descartes what he wants, providing that it is true (which it may not be).
+
 My answer:
+
+> The problem that I see with premise three is that being able to consider one's consciousness at one time and one's body at a different time is not the same thing as being able to consider them separately at the same time. They have different implications, and the latter needs to be supported, while the former does not.
