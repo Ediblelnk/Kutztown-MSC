@@ -81,3 +81,22 @@ Can you see a problem with the argument above (not shown)? Assessing it is diffi
 My answer:
 
 > The problem that I see with premise three is that being able to consider one's consciousness at one time and one's body at a different time is not the same thing as being able to consider them separately at the same time. They have different implications, and the latter needs to be supported, while the former does not.
+
+## The argument from divisibility
+
+> "To reiterate: minds are not divisible, but not because they are some miraculous kind of hard, unsplittable, spiritual atom, but rather because the correlative concepts of divisibility and indivisibility have no application to mental states and capacities, owing to hte fact that these are not logical substances, things capable of existing in their own right." -Maslin
+
+## 2.8 Problems for dualism
+
+1. **Possession of a mind is all or nothing**. Given the facts of evolutionary biology, it is surely more plausible to regard possession of a mind as a spectrum ranging from creatures such as ants and slugs, to humans.
+1. **The brain is deprived of a function**. Why would we have such an immensely complicated organ, the most complex thing of which we know? Why do people suffer mental impairments if the brain id damaged, or experience altered conscious states when they take drugs, if the brain is not responsible for our mental lives?
+1. **The homunculus fallacy**. The fallacy is evident in Descartes' attempt to explain perception by maintaining that the soul turns towards the pineal gland and inspects the images projected onto its surface as a result of impulses relayed from the outer sense organs. This model immediately invites the question of how the soul itself is supposed to perceive. In general, any psychological theory which attributes to the soul, or hte brain, the very psychological features or abilities for which it is supposed to be accounting commits the homunculus fallacy.
+1. **The problem of counting souls**. Since the argument in dualism is that the mind is immaterial and does not occupy space or time, there is no way to distinguish souls apart, or to even know how many there are. One billiard ball looks pretty much like another, and in practice it may be very difficult to tell them apart. But clearly, there must always remain one fundamental way in which they can be distinguished from each other, namely that no ball can occupy the space occupied by another ball at one and the same time.
+
+## Exercise 2.9
+
+Can you see a problem in trying to account for the identity of souls in the way in which we account for the identity of billiard balls and flesh and blood people? After working on this alone, discuss it with another person before reading on.
+
+My answer:
+
+> If the mind / souls are immaterial and have no way of distinguishing themselves apart from one another, there is no concept of "amount" of soul or mind. This translates into not being able to know any certain thing about "a" mind, if the base concept of "a" mind can not apply.
