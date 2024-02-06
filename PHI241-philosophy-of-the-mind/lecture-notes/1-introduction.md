@@ -1,4 +1,4 @@
-# Presentation of Maslin Chapter 1
+# Introduction
 
 ## The Mind-Body Problem
 
