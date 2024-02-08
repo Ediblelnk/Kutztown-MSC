@@ -73,8 +73,59 @@ Descartes believes the mind/body connection takes place in the *Pineal* gland in
 
 'I think, therefore I am" (Cogito, ergo sum)
 
-#### Issue
+#### Issue of 1
 
 If I can doubt the existence of my body but cannot doubt my own existence, does this mean that I am different from my body?
 
 > No, because doubt is an opinion of something external, not something that is intrinsic to the subject I am talking about.
+
+### 3. Argument from Individuality
+
+1. My body is divisible.
+1. My mind is not divisible.
+1. If (1) and (2), then my mind is different from my body
+1. **My mind is different from my body**
+
+Support: Mind remains intact even if body parts are removed. Each faculty of the mind is a faculty of the whole mind, not a part.
+
+#### Issues of 3
+
+- Does premise 2 bed the question against hte materialist?
+- Can minds be divided?
+- Mind may be an activity and activities cannot be divided in the way material substances can. Why can't the mind be a physical activity.
+
+### 4. Argument from Introspection
+
+- Descartes claims to have introspective knowledge of himself as only a thinking thing and that nothing bodily pertains to his nature.
+- Descartes claims to have a clear and distinct perception of himself as a conscious being, not an extended being.
+
+#### Issues of 4
+
+- Does introspection provide an exhaustive understanding of one's nature?
+
+> No, because if you have ever surprised yourself, then you did not understand everything about yourself introspectively.
+
+- Does introspection differ from other perceptual faculties?
+- Can Descartes be sure that he is thinking think as opposed to begin sure that thinking is going on that something thinks?
+
+> For the sentence 'the ball is round' to be true, there has to be two things that are true; there both has to be a ball, and it has to be round. The same is true for the phrase 'I think'. The 'think' seems pretty obvious and undeniable, but the same is not strictly true for the 'I'.
+
+- Spinoza: one and the same being may be conscious and extended
+
+### 5. Argument from Conceivability
+
+- Descartes can conceive of himself existing separate from his body or any body at all. Compare Swinburne.
+- Argument (Feldman):
+    1. I am such that is it possible to conceive of me existing apart from by body.
+    1. By body is not such that it is possible to conceive of it existing apart from by body.
+    1. If (i) and (ii), then I am distinct from my body.
+    1. I am distinct from my body.
+
+#### Support
+
+- Swinburne: We can conceive of ourselves existing without a body, i.e. afterlife, angels, or acquiring a new body. No contradiction
+- Right property to distinguish mind from body under Leibniz's Law
+- Swinburne: personal identity is unanalyzable
+- Swinburne: posit immaterial (soul) stuff to insure identity of oneself as a substance (Aristotelian modification). Also, posit that this stuff cannot divide. We cannot be in two place or have two perspectives at once.
+
+> The sentence 'I don't know who I am' is a really tricky thing to talk about.

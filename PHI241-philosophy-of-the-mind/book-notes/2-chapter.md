@@ -84,7 +84,7 @@ My answer:
 
 ## The argument from divisibility
 
-> "To reiterate: minds are not divisible, but not because they are some miraculous kind of hard, unsplittable, spiritual atom, but rather because the correlative concepts of divisibility and indivisibility have no application to mental states and capacities, owing to hte fact that these are not logical substances, things capable of existing in their own right." -Maslin
+> "To reiterate: minds are not divisible, but not because they are some miraculous kind of hard, unsplittable, spiritual atom, but rather because the correlative concepts of divisibility and indivisibility have no application to mental states and capacities, owing to the fact that these are not logical substances, things capable of existing in their own right." -Maslin
 
 ## 2.8 Problems for dualism
 
