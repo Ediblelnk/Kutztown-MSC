@@ -129,3 +129,8 @@ Support: Mind remains intact even if body parts are removed. Each faculty of the
 - Swinburne: posit immaterial (soul) stuff to insure identity of oneself as a substance (Aristotelian modification). Also, posit that this stuff cannot divide. We cannot be in two place or have two perspectives at once.
 
 > The sentence 'I don't know who I am' is a really tricky thing to talk about.
+
+#### Issues
+
+- Can we really conceive of ourselves as exiting without a body at all?
+- How would we be individuated without a body?
