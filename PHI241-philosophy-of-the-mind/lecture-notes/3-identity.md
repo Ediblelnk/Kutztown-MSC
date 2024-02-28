@@ -74,13 +74,16 @@ Strengths of Identity Theory:
 ### Problems for the Identity Theory
 
 1. **Brain states have spatial dimensions but mental states do not.**
-    - Nagel's response: having a certain sensation or thought and being in a certain physical state both have spatial location - both exist where the person is.
+    - Nagel's response: *having* a certain sensation or thought and *being* in a certain physical state both have spatial location - both exist where the person is.
 
 1. **The symmetry of identity statements: no more reason to say that mental states are just brain states than to say that brain states are just mental states.**
     - Is there any reason to privilege the physical over the mental?
     - It seems that we have to admit that some brain states have mental properties. We can't avoid property dualism, *because we claim that both are real*.
 
-1. Intentional mental states: Can intentionality be naturalized?
+1. Qualia, privileged access, and the irreducibility of the mental: We need to identify the mental state independently of how we identify the physical state, if the claim about their identity is empirically based. However, when we are aware of our thoughts and sensations, we are aware of features of them other than public physical properties of brain processes. So, the features of our mental states (qualia) must be different from the features of our brain states. We cannot avoid a dualism of properties.
+See Schaeffer's objection to Smart's identify theory.
+
+1. **Intentional mental states: Can intentionality be naturalized?**
     1. Intentional mental states represent, or are about, states of affairs external to them, including states of affairs that do not -- and perhaps never did -- exist. For example, beliefs, desires, dreams, intentions, emotions, hopes, thoughts, as well as many other mental states, possess a representational content.
     1. No brain state can possess representational content. (What about photographs containing intentional content?)
     1. Therefore, intentional mental states cannot be identical with brain states.
@@ -96,7 +99,7 @@ Two theories:
 1. Resemblance theory
 1. Causation theory
 
-### Resemblance Theory
+## Resemblance Theory
 
 A representation, R, represents a state of affairs, S, if and only if R resembles S.
 
@@ -106,10 +109,18 @@ Ignore this theory, as resemblance is a different relation than representation:
 > The name "Pedro" represents Pedro but does not resemble him.
 > Resemblance is a symmetric thing.
 
-### Causation Theory
+## Causation Theory
 
-When there is a causal co-variance or reliable indication, there is intentionality.
+When there is a causal co-variance or reliable indication, there is intentionality. The idea is that you can have representation when you have something that behaves in a very "law-like" way in response to some external phenomena.
 
 **Fred Dretske**: Tree rings represent past weather. The tree rings contain reliable information about weather in the past years. The rings vary in a dependable and law-like way with changes in the tree's environment, that is, they causally co-vary.
 
 **Marvin Minsky**: Thermostats are about the ambient temperature. They vary in a law-like way with the temperature. They indicate the ambient temperature. They have three beliefs: it's too hot in here; it's too cold in here; it's just right in here.
+
+### Problems for Causation Theory
+
+1. How can it explain **how we can have thoughts about things that do not exist**, since non-existent things have no causal power?
+1. **Reliable indication cannot be a sufficient condition** for B to represent A. Example: a scanner may have a systematic fault in leaving out the word "not" every time it scans the 10 commandments. Even though it consistently co-varies with the paper on which the ten commandments are written, we would not say that it represents the ten commandments. Something more is needed for representation.
+1. Quine's "Gavagai" objection -- **How can the causal theorist explain why we have one concept as opposed to another concept**, i.e. rabbit versus undetached rabbit part ,when the causal stimulus condition for both concepts are the same? How can the causal theorist explain the difference between the two beliefs?
+1. Donald Davidson -- holism of the mental and "constitutive ideal of rationality"
+    To ascribe mental states to someone, such as a belief or desire, we need to understand them in some coherent, consistent, and rational relation to other mental states. This ideal of rationality is essential to understanding mental states and intentionality. However, this principle governing the mental is radically different from the principles that govern our understanding of physical phenomenon. So Davidson thinks that there are no laws linking the mental and the physical.
