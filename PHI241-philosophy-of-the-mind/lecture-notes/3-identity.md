@@ -124,3 +124,38 @@ When there is a causal co-variance or reliable indication, there is intentionali
 1. Quine's "Gavagai" objection -- **How can the causal theorist explain why we have one concept as opposed to another concept**, i.e. rabbit versus undetached rabbit part ,when the causal stimulus condition for both concepts are the same? How can the causal theorist explain the difference between the two beliefs?
 1. Donald Davidson -- holism of the mental and "constitutive ideal of rationality"
     To ascribe mental states to someone, such as a belief or desire, we need to understand them in some coherent, consistent, and rational relation to other mental states. This ideal of rationality is essential to understanding mental states and intentionality. However, this principle governing the mental is radically different from the principles that govern our understanding of physical phenomenon. So Davidson thinks that there are no laws linking the mental and the physical.
+
+## Kripke and Identity Theory
+
+Reminders:
+
+**Type-type** Identity Theory:
+
+- each type of mental state is identical to a type of brain state.
+
+**Token-token** identity Theory:
+
+- each *particular* mental state is identical to a *particular* physical state.
+- Token Identity Theory allows for the multi-realizability of mental states
+
+### Is the identity supposed to be analytically true or contingently true?
+
+**Analytically true**: true by virtue of the meaning of the term.
+
+- Denial of analytic truth is self-contradictory
+- Also called **a priori**, or **De dicto** truths
+
+**Contingently true**: true, but not by the exact meaning of the terms. The truth must be uncovered or proven.
+
+- Denial of the truth is wrong, but not **self**-contradictory
+- Also called **a posteriori**, **De re** truths
+
+### Kripke's Argument Against the Mind-Brain Identity Theory
+
+"Pain is c-fiber firing" is contingently true. The world could have been different. Pain might have been identical to anything physical. But, it turns out that in this world pain is identical to c-fibers firing.
+
+If "pain is c-fiber firing" is true, then it must be *de re* necessarily true. However, it cannot be *de re* necessarily true, because we can conceive of the possibility that pain might not be a physical state at all. if we can conceive of the possibility that pain is not a physical state at all ,the pain cannot be a physical state.
+
+## Eliminative Materialist
+
+The language of the mental is broken and fundamentally flawed, and eventually we will use the languages of science in order to explain it *properly*.
