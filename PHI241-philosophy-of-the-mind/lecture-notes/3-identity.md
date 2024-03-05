@@ -125,7 +125,7 @@ When there is a causal co-variance or reliable indication, there is intentionali
 1. Donald Davidson -- holism of the mental and "constitutive ideal of rationality"
     To ascribe mental states to someone, such as a belief or desire, we need to understand them in some coherent, consistent, and rational relation to other mental states. This ideal of rationality is essential to understanding mental states and intentionality. However, this principle governing the mental is radically different from the principles that govern our understanding of physical phenomenon. So Davidson thinks that there are no laws linking the mental and the physical.
 
-## Kripke and Identity Theory
+## Kripke and the Identity Theory
 
 Reminders:
 
@@ -154,7 +154,83 @@ Reminders:
 
 "Pain is c-fiber firing" is contingently true. The world could have been different. Pain might have been identical to anything physical. But, it turns out that in this world pain is identical to c-fibers firing.
 
-If "pain is c-fiber firing" is true, then it must be *de re* necessarily true. However, it cannot be *de re* necessarily true, because we can conceive of the possibility that pain might not be a physical state at all. if we can conceive of the possibility that pain is not a physical state at all ,the pain cannot be a physical state.
+If "pain is c-fiber firing" is true, then it must be *de re* necessarily true. However, it cannot be *de re* necessarily true, because we can conceive of the possibility that pain might not be a physical state at all. if we can conceive of the possibility that pain is not a physical state at all, the pain cannot be a physical state.
+
+### Non-rigid Designators
+
+Definite descriptions -- a description that picks out a particular individual.
+
+Definition descriptions, like "the first Post-master General of the U.S." is a non-rigid designator. Although it refers to Benjamin Franklin, *it could have referred to someone else*.
+
+Non-rigid designators, could refer to someone else in a different world.
+
+### Rigid Designators
+
+Proper names, like Benjamin Franklin, are rigid designators.
+
+Rigid designators refer to the same individual in all possible worlds.
+
+Since Benjamin Franklin could not have be a different individual from himself, the proper name "Benjamin Franklin" picks would this same individual in all possible worlds.
+
+"Benjamin Franklin" necessarily refers to Benjamin Franklin, and it is inconceivable that it could refer to anyone else.
+
+### The lesson from the story
+
+When the identity sign is flanked by rigid designators, i.e. proper names, and the identity claim is in fact true, the identity claim is *necessarily* true. It is inconceivable that it could be false.
+
+Consider the claim:
+
+> Mark Twain = the author of Huckleberry Finn.
+
+Since the author is a non-rigid designator, it is possible that this is not always true in all worlds.
+
+### Natural Kinds of Rigid Designators
+
+It means that "water" picks out the same thing in all possible worlds. It also means that "H20" picks out the same thing in all possible worlds.
+
+Now, even though "water" and "H2O" could have been used to pick out different thing sin the world, they are in fact used to pick out te same thing.
+
+So we can make the identity claim: Water = H2O.
+
+### Identity and Necessity
+
+Since Water = H2O, "water" and "H2O" rigidly designate the same individual in all possible worlds. Thus, it is inconceivable that the kind of thing that "water" refers to could be different from the kind of thing that "H2O" refers to.
+
+### Mind = Brain Identity Theory
+
+Mind = Brain, Pain = c-fibers firing
+
+These claims are supposed to be like Water = H2O
+
+### Kripke's View
+
+if mind, brain, pain and c-fibers firing are natural kind terms, then the terms flanking the identity sign are rigid designators. So, if mind = brain or pain = c-fibers firing is true, then they must be de re true.
+
+### Is Mind = Brain necessarily true?
+
+Kripke: No.
+
+It is conceivable that someone may be in pain without c-fibers firing. All that is required for someone to be in pain is for someone to feel pain. It would not make sense to tell someone that they are not in pain when they feel the pain but their c-fibers are not firing.
+
+Note difference: If someone claimed to have a glass of water and it was not H2O, it would make sense to think that the person could be wrong and show the person through a chemical analysis of the liquid. It makes no sense to do something analogous with pain, since the only thing essential to pain is feeling pain.
+
+### Response
+
+Could a identity theorist claim that we cannot really imagine pain without c-fibers firing. Instead, we are imagining something like pain occurring without c-fibers firing?
+
+### Kripke: the cases are different
+
+Something feeling like pain is the only thing that is essential to pain. So, there cannot be something that feels like pain but isn't pain.
+
+In contrast, how something appears is not the only thing essential to water. So, there can be something that appears to be water but is not water.
+
+So, we can genuinely imagine having pains without c-fibers firing and worlds in which there are c-fibers firing but no pains. If we can imagine one without the other, then they cannot be identical.
+
+## Descartes and Zombies
+
+Descartes: It is possible to conceive of the mind existing without the body. So, mind is not identical to body.
+
+David Chalmers: There could be zombies. So, mind is not identical to body.
 
 ## Eliminative Materialist
 
