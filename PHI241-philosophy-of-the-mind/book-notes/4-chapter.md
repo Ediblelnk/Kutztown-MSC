@@ -35,3 +35,19 @@ My answer:
 Book answer:
 
 > The threat suggested in Exercise 4.4 is that the analysis could never be carried through to completion.
+
+## Exercise 4.5
+
+How plausive do you find Ryle's claim that having a disposition consists simply in a set of hypothetical 'if...then...' statements being true, providing the appropriate conditions are realized? Consider your response and discuss it with someone else before reading my comments.
+
+My answer:
+
+> I find that this claim actually does explain plenty of dispositions, in particular beliefs, desires, wants, and such. However, as for some of the more experiential dispositions, I am not fully convinced. If I am for instance confused, how does that fit into a 'if...then...' statement?
+
+Book answer:
+
+> most philosophers would now agree that there is more to a disposition than what Ryle claims it to be. The reason that glass has a disposition to break when struck -- the explanation of its brittleness -- is to be found in facts about its underlying micro-structure. If the micro-structure were to be altered in an appropriate manner, as when glass is annealed, then its tendency to shatter when struck is much reduced, or even removed, as in the case of toughened glass. By parity of argument, to have a belief (or any other mental state) is not merely to be inclined to behave in a certain way, but to be in an inner state, which may in the appropriate circumstances, manifest itself in outward behavior. However, once the propriety of thinking of beliefs and other mental states as inner causes of outward behavior has been allowed, behaviorism has been abandoned.
+
+### Putnam Reference
+
+> The point was well made by Hilary Putnam when writing about what we mean when we attribute a disease such as multiple sclerosis to someone. It is plausible to say that 'Normally people who have multiple sclerosis have some or all of the following symptoms' is a necessary (analytic) truth. In other words, it is part of what we mean by 'multiple sclerosis' that normally it gives rise to certain symptoms. But, it must be emphasized, this does not mean that talk about the disease, multiple sclerosis, can be translated, without loss of meaning, into talk about hte symptoms of multiple sclerosis. This would be analogous to the error the analytical behaviorists make when they try to render talk about 'pain' in terms of actual and potential pain-behavior. The error that underpins both these attempts is the mistake of trying to make *causes* logical construction out of their *effects*. But pains and diseases are causes of behavior and symptoms respectively, and cannot be reduced to, and constructed out of, their effects."
