@@ -100,3 +100,27 @@ Category Mistake -- when we represent the facts of our mental life as if they be
 Ryle claims that we have been making a category mistake about the mind for a long time by applying idioms and descriptions of physical things to mental things, i.e. ascribe existence and causal properties to the mind.
 
 Example: Construe mental conduct words, such as desires and intentions, as signifying non-mechanical processes. Represent minds as extra centers of causal processes.
+
+Another Example:
+"He built a house" vs. "He built a fantasy"
+The latter describes a sequence of private events in a private space invoking mental arrangements. This talk leads to thinking that the mind is a spiritual thing with non-physical mental objects.
+
+Other examples of category mistakes that the dualist makes:
+
+1. Construe mental conduct words, such as desires and intentions, as signifying non-mechanical processes.
+1. Represent minds as extra center of causal processes.
+1. Represent minds as substantive entities.
+
+## Soft Behaviorism
+
+**All**  words and descriptions get their meaning from the circumstances in which we know it is correct to apply them. These "criterial conditions" for words to have meaning must be public, physical events. They cannot be private events, since there would then be no common understanding fo the terms. There are no criterial conditions for private meanings. If we invoke terms that we allege to have some private criterial content, we are speaking nonsense.
+
+Ryle: Mind talk is really talk about our behavior and dispositions to behave and not talk about some inner ghostly entity.
+
+We can fully describe what is happening when, for example, pains occur by using languages that refers only to the behavior or dispositions to behave of people suffering.
+
+Mind/body problem is a confusion.
+
+### Behaviorism and Other Minds
+
+There is no "problem of other minds". There is no longer a problem of how we can know whether a non-physical, spiritual thing is present or absent in other bodies. All we need to know is whether other people behave or are disposed to behave in the ways in which the mental terms apply,
