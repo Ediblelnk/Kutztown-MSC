@@ -124,3 +124,28 @@ Mind/body problem is a confusion.
 ### Behaviorism and Other Minds
 
 There is no "problem of other minds". There is no longer a problem of how we can know whether a non-physical, spiritual thing is present or absent in other bodies. All we need to know is whether other people behave or are disposed to behave in the ways in which the mental terms apply,
+
+## Problems for Behaviorism
+
+1. **Behaviorism treats mental events as the effects of whatever cause the behavior or dispositions to behave.** Mental events do not cause any behavior. But, we use mental concepts in our causal explanation of behavior. For example, "His pain caused him to cry out." "His jealousy caused him to commit the murder." Behavior is wrong because it omits the causal element in mental concepts.
+    1. **Ryle and dualists want to distinguish intelligent beings from the rest of the world**. Ryle thinks that this can be done by distinguishing between the behavior of intelligent and non-intelligent beings.
+    1. **Descartes thinks that this can be done by distinguishing between what *causes* the differences in their behavior**. Minds are introduced to explain *why* people differ from stones.
+    1. Descartes thinks that we should accept dualism, because we need to posit minds to causally explain behavior, i.e. how language is possible.
+
+1. **At least some mental descriptions, i.e. qualia of sensations, emotions, and feelings, refer to events or processes that are neither behavioral or dispositional**. Behaviorism leaves out the "sensation" of pain and our reactions to pain. There could be pains without pain behavior.
+    1. Behaviorism cannot distinguish real pains from *imitations* of pain.
+    1. Behaviorists claim that to have a pain is to acquire the disposition to have pain behavior. To decide to imitate pain is to acquire the disposition to have pain behavior and maybe the same set of pain expressing behaviors.
+    1. So, having pains and deciding to imitate pain are not different sorts of mental episodes. But, clearly they are. Pains hurt and imitating pains does not hurt. There can be pain without pain behavior and pain behavior without pain.
+
+## P.F. Strawson
+
+Descartes: All statements about us are either statements about our minds or bodies.
+
+Strawson: What does "I" refer to in the Cartesian view?
+
+Answer: A non-physical immaterial mind/soul.
+Problem: We must be able to distinguish "I" (my mind/soul) from that of another. Otherwise, we would have no reason for ruling out that there could be a hundred minds/souls that "I" might refer to. We need to be able to count souls.
+
+But: How can we count souls if they are non-physical, spiritual entities? Strawson says that we can't. "I" must refer to the very same thing that I use physical descriptions of myself to refer to, i.e. a human being.
+
+Later view: Person is a primitive term that we use to refer to beings to which we ascribe both physical and mental properties.
